@@ -14,6 +14,8 @@ Upcoming contents:
 - What I have learned from Generative Adversarial Networks
 - What I have learned from Cryptography
 
+![alt text](https://raw.githubusercontent.com/jahangircsebuet/jahangircsebuet/main/free-ai-app-for-phd-scholars-researcher.jpg)
+
 <!---
 jahangircsebuet/jahangircsebuet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
