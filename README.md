@@ -39,3 +39,8 @@ o Post-quantum secure IoTs
 o Secure Multi-party Computation
 o Distributed cloud security
 o Breach-Resilient Infrastructures (Protection of Genetic/Medical Data)
+
+
+Hyperledger Fabric Tutorial (Recommended):
+https://www.udemy.com/course/learn-hyperledger-fabric-chaincode-development-using-java/
+
