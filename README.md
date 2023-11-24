@@ -58,8 +58,46 @@ Hyperledger Fabric Tutorial (Recommended):
 https://www.udemy.com/course/learn-hyperledger-fabric-chaincode-development-using-java/
 
 
+###################################################### Evolution of ML/DL #############################################
+
+
+When it comes to Deep Learning, I think nobody symbolizes the field better than Geoffrey Hinton, the father of Deep Learning. He even coined the term! Here are his biggest contributions to the field:
+
+- 1986 - He invents the Boltzmann machines
+- 1985 - He proposes a new learning algorithm for Boltzmann machines
+- 1986 - He is credited as one of the inventors of the Back-propagation algorithm
+- 1991 - He invents the Mixture of Experts
+- 2006 - He proposes an algorithm to train Deep Belief Nets. This is the article that led to the term "Deep Learning"
+- 2006 - He shows how to build Autoencoders with Neural Networks
+- 2008 - He invents t-SNE, a new technique for dimension reduction
+- 2009 - He presents an algorithm to train Deep Boltzmann machines
+- 2009 - Trains Restricted Boltzmann Machines and Deep Belief Networks with the CIFAR-10 dataset
+- 2010 - Shows the improved performance of Restricted Boltzmann Machines with ReLU
+- 2011 - Shows how to build a generative text model with Recurrent Neural Networks
+- 2012 - Invents RMSprop in a course lecture (!!!)
+- 2012 - Proposes the Feature Dropout technique to improve networks
+- 2012 - Suggests mini-batch gradient descent in a course lecture
+- 2012 - Deep Learning for speech recognition
+- 2014 - Revolutions computer vision capabilities with AlexNet (the most cited paper of his whole career)
+- 2014 - He proposes the Dropout technique to reduce overfitting
+- 2014 - the CIFAR 10 dataset is made available
+- 2015 - He invents the Distillation Network to reduce the size of models
+- 2016 - He invents the Layer Normation technique (used in every Transformer architecture
+- 2017- He proposes CapsNets, or Capsule networks aiming to overcome some limitations of CNNs, particularly in the area of understanding hierarchical relationships between objects and their parts within an image
+- 2022 - He presents a new alternative to the Back-propagation algorithm: the Forward-forward algorithm
+
+Now, the guy has 327 publications, so I couldn't capture everything here, but I believe this encapsulates his most impactful works. Considering the trend, it seems a lot more is going to come from him in the coming years!
+#machinelearning #datascience #artificialintelligence
+
+--
+👉 Let me help you become better at Machine Learning: https://TheAiEdge.io
+--
+
+![alt text]([http://url/to/img.png](https://github.com/jahangircsebuet/jahangircsebuet/blob/main/evolution-of-ml-dl.jpg))
 
 ###################################################### Exercise #############################################
+
+
 Health cheat codes I know at 33, that I wish I knew at 22:
 
 1) Do cardio for overall health & longevity, do exercise to build muscle & strength, do diet to burn fat , do yoga/stretching for mobility.
