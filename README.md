@@ -57,3 +57,48 @@ o Breach-Resilient Infrastructures (Protection of Genetic/Medical Data)
 Hyperledger Fabric Tutorial (Recommended):
 https://www.udemy.com/course/learn-hyperledger-fabric-chaincode-development-using-java/
 
+
+
+###################################################### Exercise #############################################
+Health cheat codes I know at 33, that I wish I knew at 22:
+
+1) Do cardio for overall health & longevity, do exercise to build muscle & strength, do diet to burn fat , do yoga/stretching for mobility.
+
+2) 7-8 hours of sleep is non-negotiable. The percentage of people who can have perfect physiology with less than 7 hour of sleep is almost zero.
+
+3)5-10 minute of sunlight exposure within the first couple of hours of waking up is crucial. It boosts energy, brain power and helps to fall asleep at night in the right time
+
+4) If you had less than 7 hour of sleep or if you are feeling low in energy- take a short nap.
+
+5) Workout atleast 3 times per week. Get brutally strong in basic compound movements like Overhead Press, pullups, Dips, rows, Squats, deadlift etc . Try to progress in these exercises in each week .
+
+6) Perfect the form of these exercises. Have proper mind-muscle connection when working out. Ask for help from your trainer in the gym, or watch good tutorials in youtube. Perfecting the form will keep you injury free , while making you the best gains.
+
+7) Pick any form of cardio that you enjoy. Do it as often as you can.
+
+8 ) For the vast majority of people the best way to do cardio is to walk outside. Walk at least 8k steps per day.
+
+9 ) Prioritize having plenty of vegetables and protein in each meal. If you want to build muscle and strength- try to hit at least 1.8 gram of protein per kilo of body weight everyday.
+
+10) Carbohydrates are not bad. In fact, they are key to optimal performance in exercise . What is really bad, is processed foods. Minimize processed foods, as much as you can.
+
+11) Intermittent fasting is a great tool to stay in calorie deficit very easily and loose fat. But, it is not at all necessary. Many people function well, when having a good breakfast .
+
+11) In a chaotic world, stillness of mind is key. The time tested way to foster a calm mind, is by praying/ meditating or spending time in nature .
+
+12) Have coffee at least 1-2 hour after waking up . Have water, before having coffee.
+
+13) Have a pullup bar in your home. You can build really impressive fitness just by doing some pullups, some pushups, some squats/lunges - in your home .
+
+14) Put sunscreen on everyday. Moisturize well in winters .
+
+15) True wealth is a house full of love. Give time to your family. 
+
+16) Gratitude is like vitamin D , for soul. Even a tiny amount can nourish your soul . When you remember old friends, drop them a message , saying you missed them. Tell your partner that you love him/her.
+
+17) Drink a lot of water. 2 liter is bare minimum, 3 liters plus, if you are active
+
+18) Do some form of stretching/yoga everyday- even if it is for 1-2 minutes . This will keep you mobile
+
+19) If all these sound too much at least do the following: prioritize vegetables and proteins in each meal , get 7 hour+ sleep, lift 3x a week, walk 8k+ steps & drink plenty of water.
+
