@@ -92,8 +92,7 @@ Now, the guy has 327 publications, so I couldn't capture everything here, but I 
 --
 👉 Let me help you become better at Machine Learning: https://TheAiEdge.io
 --
-
-![alt text]([http://url/to/img.png](https://github.com/jahangircsebuet/jahangircsebuet/blob/main/evolution-of-ml-dl.jpg))
+![Project Image](https://raw.githubusercontent.com/jahangircsebuet/jahangircsebuet/ab1b997d2d7d1a25a628bbc06006577d33e920aa/evolution-of-ml-dl.jpg)
 
 ###################################################### Exercise #############################################
 
