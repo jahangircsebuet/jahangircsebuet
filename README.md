@@ -139,3 +139,38 @@ Health cheat codes I know at 33, that I wish I knew at 22:
 
 19) If all these sound too much at least do the following: prioritize vegetables and proteins in each meal , get 7 hour+ sleep, lift 3x a week, walk 8k+ steps & drink plenty of water.
 
+
+
+Conferences needed for Amazon:
+AAAI, 
+ACL,
+ASPLOS,
+AISTATAS
+CAV
+CIKM
+Coiling
+ECCV
+EMNLP
+EuroSys
+FAST
+FMCAD
+ICASSP
+ICCV
+ICLR
+ICML
+ICRA
+IJCAI
+Informs
+Interspeech
+KDD
+MLSys
+NeurIPS
+NSDI
+PLDI
+POPL
+Recsys
+SLT
+SIGIR
+SOSP
+The Web Conf
+WSDM
