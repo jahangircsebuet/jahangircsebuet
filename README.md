@@ -175,4 +175,4 @@ SOSP
 The Web Conf
 WSDM
 
-![Project Image](https://raw.githubusercontent.com/jahangircsebuet/jahangircsebuet/ab1b997d2d7d1a25a628bbc06006577d33e920aa/evolution-of-ml-dl.jpg)
+![Project Image](https://raw.githubusercontent.com/jahangircsebuet/jahangircsebuet/41480b79190f909b418eb134cec1bc4c6e174b02/relation-among-ai-ml-nn-dl.jpg)
