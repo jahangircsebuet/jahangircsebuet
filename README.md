@@ -176,3 +176,10 @@ The Web Conf
 WSDM
 
 ![Project Image](https://raw.githubusercontent.com/jahangircsebuet/jahangircsebuet/41480b79190f909b418eb134cec1bc4c6e174b02/relation-among-ai-ml-nn-dl.jpg)
+
+Few recent papers:
+1. Utilizing BERT for Information Retrieval: Survey, Applications, Resources, and Challenges (ACM Computing Surveys, Impact Factor: 16.6): https://lnkd.in/eKAQxAF8
+
+2. A comprehensive evaluation of large Language models on benchmark biomedical text processing tasks (Computers in Biology and Medicine, Impact Factor: 7.7): https://lnkd.in/efph4XHp
+
+3. BenLLMEval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on Bengali NLP (LREC-COLING 2024, One of the top 5 conferences in NLP): https://lnkd.in/ePdp3aHN 
